@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="E:/jar包/jersey-bundle-1.19.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/jar包/json-org.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/jar包/commons-codec-1.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/jar包/org.apache.httpclient.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/jar包/log4j-1.2.14.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/jar包/json-lib-2.4-jdk15.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/jar包/org.apache.http.legacy.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/jar包/httpclient-4.3.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/jar包/sign.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/jar包/mysql-connector-java-5.1.43-bin.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/jar包/ApacheJMeter.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/jar包/ApacheJMeter_core.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/jar包/ApacheJMeter_functions.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
